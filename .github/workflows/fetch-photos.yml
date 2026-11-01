@@ -1,0 +1,30 @@
+name: Fetch licensed photos
+on:
+  push:
+    paths: ['photos/photo-list.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download photos listed in photos/photo-list.txt
+        run: |
+          set -u
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
+          grep -v '^#' photos/photo-list.txt | while IFS='|' read -r name url; do
+            name=$(echo "$name" | xargs); url=$(echo "$url" | xargs)
+            [ -z "$name" ] && continue
+            [ -s "photos/$name" ] && continue
+            curl -sSL -A "$UA" --retry 3 -o "photos/$name" "$url" || echo "FAILED $name"
+            file "photos/$name"
+          done
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos
+          git diff --cached --quiet || git commit -m "Fetch licensed photos [skip ci]"
+          git push

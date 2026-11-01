@@ -1,0 +1,21 @@
+# filename | url   (fetched by .github/workflows/fetch-photos.yml)
+pexels-7360544-canaima.jpg | https://images.pexels.com/photos/7360544/pexels-photo-7360544.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-12693427-autana.jpg | https://images.pexels.com/photos/12693427/pexels-photo-12693427.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-18558367-losroques-aerial.jpg | https://images.pexels.com/photos/18558367/pexels-photo-18558367.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-30587633-losroques-beach.jpg | https://images.pexels.com/photos/30587633/pexels-photo-30587633.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-37945892-island.jpg | https://images.pexels.com/photos/37945892/pexels-photo-37945892.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-18545346-sailboat.jpg | https://images.pexels.com/photos/18545346/pexels-photo-18545346.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-13290270-andes.jpg | https://images.pexels.com/photos/13290270/pexels-photo-13290270.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-19199207-andes-fog.jpg | https://images.pexels.com/photos/19199207/pexels-photo-19199207.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-7839127-andes-snow.jpg | https://images.pexels.com/photos/7839127/pexels-photo-7839127.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-29518260-caracas-sunset.jpg | https://images.pexels.com/photos/29518260/pexels-photo-29518260.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-38556235-caracas-aerial.jpg | https://images.pexels.com/photos/38556235/pexels-photo-38556235.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-39229607-caracas-mist.jpg | https://images.pexels.com/photos/39229607/pexels-photo-39229607.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-39879583-avila.jpg | https://images.pexels.com/photos/39879583/pexels-photo-39879583.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-32699741-margarita-aerial.jpg | https://images.pexels.com/photos/32699741/pexels-photo-32699741.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-26241556-pampatar.jpg | https://images.pexels.com/photos/26241556/pexels-photo-26241556.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-32690921-nueva-esparta.jpg | https://images.pexels.com/photos/32690921/pexels-photo-32690921.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-32699745-margarita-lighthouse.jpg | https://images.pexels.com/photos/32699745/pexels-photo-32699745.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-32699665-nueva-esparta-pelicans.jpg | https://images.pexels.com/photos/32699665/pexels-photo-32699665.jpeg?auto=compress&cs=tinysrgb&w=2000
+unsplash-LoBZJg-390E-merida-valley.jpg | https://images.unsplash.com/photo-1693348227481-2467938e5db7?w=2000&q=85&fm=jpg
+unsplash-19tQv51x4-A-llanos.jpg | https://images.unsplash.com/uploads/141362941583982a7e0fc/abcfbca1?w=2000&q=85&fm=jpg
