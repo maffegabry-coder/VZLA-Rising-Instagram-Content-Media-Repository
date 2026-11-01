@@ -1,24 +1,22 @@
-# Post 01 - Venezuela es más que los titulares
+# Venezuela: More Than the Headlines
 
-Pillar: Venezuela Uncovered - Mon 2 Nov 2026, 18:00 Europe/Rome (12:00 Miami) - 6 slides
+Venezuela Uncovered - Mon 2 Nov 2026, 18:00 Rome / 12:00 Miami - 6 slides
 
 ## Caption
 
-Venezuela es más que los titulares. 🇻🇪
+Venezuela is more than the headlines. 🇻🇪
 
-En un solo país: el Salto Ángel cae 979 m desde un tepuy en Canaima, Los Roques protege 221.120 hectáreas de arrecifes e islas, el Pico Bolívar llega a 4.978 m y, en medio, los Llanos se abren hasta el horizonte.
+Angel Falls drops 979 m in Canaima. Los Roques protects 340+ islands, cays and shoals. Pico Bolívar reaches 4,978 m. And 2,800 km of coastline, mostly Caribbean.
 
-Es uno de los 17 países megadiversos del planeta. Aquí empieza VZLA Rising: descubrir sus lugares, su transformación y sus oportunidades, con datos.
+One of the world's 17 megadiverse countries.
 
-¿Cuál visitarías primero?
+Where would you go first?
 
-EN | Venezuela is more than the headlines. Angel Falls drops 979 m in Canaima, Los Roques protects 221,120 ha of reefs, Pico Bolívar reaches 4,978 m. One of the world's 17 megadiverse countries.
+ES | Venezuela es más que los titulares: el Salto Ángel, Los Roques, el Pico Bolívar y 2.800 km de costa. ¿A dónde irías primero?
 
-Which would you visit first?
-
-#Venezuela #ViajarPorVenezuela #VZLARising
+#Venezuela #TravelVenezuela #VZLARising
 
 ## First comment
 
-Fuentes / Sources: UNESCO (Canaima); medición Robertson 1949 (Salto Ángel); Ramsar Sites Information Service (Los Roques); Pérez et al., Interciencia 2005 (Pico Bolívar); Conservation International (países megadiversos).
-Fotos: Frank Araujo, Ederik Palencia Ferreira, Fuka jaz (Pexels); Pedro Romero, Jean-Luc Crucifix (Unsplash).
+Sources: UNESCO; Robertson survey 1949; Ramsar Sites Information Service; Pérez et al., Interciencia 2005; CIA World Factbook; Conservation International.
+Photos: Maria Isabella Bernotti, Ederik Palencia Ferreira, Fuka jaz, Arturo A, Daniel Patiño (Pexels).

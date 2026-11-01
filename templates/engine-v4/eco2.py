@@ -28,7 +28,7 @@ html,body{width:1080px;height:1350px}
 body{font-family:'Jost',sans-serif;-webkit-font-smoothing:antialiased}
 .s{position:relative;width:1080px;height:1350px;overflow:hidden;color:var(--fg);background:var(--bg)}
 .bg{position:absolute;inset:0;background-size:cover}
-.veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,9,6,.50) 0%,rgba(12,9,6,0) 14%,rgba(12,9,6,.38) 28%,rgba(12,9,6,.70) 48%,rgba(12,9,6,.84) 72%,rgba(12,9,6,.92) 100%)}
+.veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,9,6,.42) 0%,rgba(12,9,6,0) 13%,rgba(12,9,6,0) 36%,rgba(12,9,6,.5) 54%,rgba(12,9,6,.8) 72%,rgba(12,9,6,.9) 100%)}
 .top{position:absolute;top:60px;left:72px;right:72px;display:flex;justify-content:space-between;
   font:500 25px 'Jost';letter-spacing:.26em;text-transform:uppercase;z-index:3}
 .top.ph{text-shadow:0 1px 14px rgba(0,0,0,.45)}
@@ -49,6 +49,7 @@ body{font-family:'Jost',sans-serif;-webkit-font-smoothing:antialiased}
 .row{display:flex;gap:28px;align-items:baseline;padding:26px 0;border-top:1px solid var(--line)}
 .row .n{font:300 54px 'Cormorant';color:var(--acc);width:70px;flex:none}
 .row .t{font:500 38px/1.25 'Jost'}
+.ph .row .t,.ph .tag,.ph .row .n{text-shadow:0 1px 18px rgba(0,0,0,.55)}
 .row .d{font:400 30px/1.35 'Jost';opacity:.85;margin-top:6px}
 .ph .kick{color:#fff;text-shadow:0 1px 16px rgba(0,0,0,.6)}
 .kick:before{content:'';display:inline-block;width:56px;height:2px;background:var(--acc);vertical-align:middle;margin-right:22px;position:relative;top:-4px}

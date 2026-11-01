@@ -1,24 +1,22 @@
-# Post 02 - El capital llega a Caracas
+# Capital Is Coming to Caracas
 
-Pillar: Venezuela in Motion - Wed 4 Nov 2026, 18:00 Europe/Rome (12:00 Miami) - 5 slides
+Venezuela in Motion - Wed 4 Nov 2026, 18:00 Rome / 12:00 Miami - 5 slides
 
 ## Caption
 
-25 fondos de inversión se reunieron en Caracas en octubre. 🇻🇪
+25 investment funds met in Caracas in October. 🇻🇪
 
-La sexta edición del Startup Venezuela Summit (21 al 23 de octubre) fue inaugurada por Richard Branson y reunió, según los organizadores, a unos 40 invitados internacionales, frente a 10 en 2023.
+The Startup Venezuela Summit (Oct 21-23) was opened by Richard Branson. Fintech Cashea raised $100M in 2026. And flights are returning: Qatar Airways and Avianca already fly in, Copa adds Panama to Margarita from Nov 26.
 
-El dinero no es solo conversación: la fintech Cashea levantó US$100 millones en 2026 y reporta más de 10 millones de cuentas. Y vuelven los vuelos: Qatar Airways y Avianca ya operan a Caracas, Copa unirá Panamá con Margarita desde el 26 de noviembre.
+The momentum is real. So is the homework: most figures come from companies, and compliance comes first.
 
-Nuestra lectura: el impulso es real, pero muchas cifras vienen de empresas y organizadores. Primero, la debida diligencia.
+What would you need to see to invest?
 
-¿Qué necesitarías ver para invertir en Venezuela?
-
-EN | 25 investment funds met in Caracas in October. Cashea raised US$100M in 2026 and air links are returning. Momentum is real; due diligence comes first.
+ES | 25 fondos en Caracas, US$100M para Cashea y vuelven los vuelos. El impulso es real, la debida diligencia también. ¿Qué necesitarías ver para invertir?
 
 #Venezuela #Startups #Caracas
 
 ## First comment
 
-Fuentes / Sources: Bloomberg Línea, oct. 2026 (Startup Venezuela Summit, cifras de los organizadores; rutas aéreas, 7 oct. 2026); Intelligent CIO, ago. 2026 (Cashea, cifras de la empresa). No es asesoría de inversión.
-Fotos: Andy Art and design, Joaquim Pacheco, Juan Carlos Fernández Alemán (Pexels).
+Sources: Bloomberg Línea, Oct 2026 (summit, organiser figures; air routes, Oct 7); Intelligent CIO, Aug 2026 (Cashea, company figures). Not investment advice.
+Photos: Andy Art and design, Juan Carlos Fernández Alemán, Maria Isabella Bernotti (Pexels).
