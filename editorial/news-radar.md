@@ -52,3 +52,8 @@ Use for ideas, topics and news only. Verify every fact on primary or independent
 
 ## Photo permission DM (ES)
 Hola! Somos @vzla_rising, una revista digital sobre turismo, hospitality e inversión en Venezuela. Nos encantan sus fotos de [lugar]. ¿Nos permitirían usar 2-3 en un carrusel, con crédito y etiqueta a su cuenta? Si quieren, lo publicamos como colaboración. ¡Gracias!
+
+## Priority idea from Gabriele (01/11/2026)
+- Topic: "Venezuela #1 for GDP growth in Latin America in 2027" - ranking seen on @dnewsok (17 Oct 2026), citing IMF: Venezuela 7.0%, Paraguay 4.0%, Argentina 3.5%, Peru 2.9%, Chile 2.6%, Ecuador 2.5%, Uruguay 2.4%, Colombia 2.3%, Brazil 1.9%, Bolivia -1.5%.
+- Use in one of the next posts (Venezuela in Motion or Investment Perspectives). Format idea: clean ranked bar chart drawn to scale, cream slide, plus photo slides.
+- MUST verify every value directly in the IMF World Economic Outlook (October 2026) database before publishing; do not copy the dnewsok figures. Make clear these are IMF projections, not results. Do not reuse dnewsok graphics.
