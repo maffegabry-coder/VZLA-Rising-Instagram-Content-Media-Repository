@@ -1,32 +1,24 @@
-# Post 02 - Capital comes to Caracas
+# Post 02 - El capital llega a Caracas
 
-Pillar: Venezuela in Motion - Publication: Wed 4 Nov 2026, 18:00 Europe/Rome (12:00 Miami)
+Pillar: Venezuela in Motion - Wed 4 Nov 2026, 18:00 Europe/Rome (12:00 Miami) - 5 slides
 
 ## Caption
 
-Twenty-five investment funds gathered in Caracas in October.
+25 fondos de inversión se reunieron en Caracas en octubre. 🇻🇪
 
-The sixth Startup Venezuela Summit (21-23 October) was opened by Richard Branson and, according to the organisers, brought around 40 international guests, up from 10 at the first edition in 2023.
+La sexta edición del Startup Venezuela Summit (21 al 23 de octubre) fue inaugurada por Richard Branson y reunió, según los organizadores, a unos 40 invitados internacionales, frente a 10 en 2023.
 
-The money is not only talk. Fintech Cashea raised US$100 million in 2026 across two rounds and reports more than 10 million consumer accounts.
+El dinero no es solo conversación: la fintech Cashea levantó US$100 millones en 2026 y reporta más de 10 millones de cuentas. Y vuelven los vuelos: Qatar Airways y Avianca ya operan a Caracas, Copa unirá Panamá con Margarita desde el 26 de noviembre.
 
-Air links are returning too. Qatar Airways and Avianca already fly to Caracas, Copa plans to connect Panama with Margarita from 26 November, while other US routes still await approvals.
+Nuestra lectura: el impulso es real, pero muchas cifras vienen de empresas y organizadores. Primero, la debida diligencia.
 
-Our read: the momentum is real, but most figures come from companies and organisers. Due diligence and compliance come first.
+¿Qué necesitarías ver para invertir en Venezuela?
 
-What would you need to see before investing in Venezuela?
-
-🇻🇪
-
-Veinticinco fondos de inversión se reunieron en Caracas en octubre, en la sexta edición del Startup Venezuela Summit, inaugurada por Richard Branson. Cashea levantó US$100 millones en 2026 y vuelven rutas aéreas, aunque algunas siguen pendientes de aprobación.
-
-El impulso es real. La debida diligencia, también.
-
-¿Qué necesitarías ver antes de invertir en Venezuela?
+EN | 25 investment funds met in Caracas in October. Cashea raised US$100M in 2026 and air links are returning. Momentum is real; due diligence comes first.
 
 #Venezuela #Startups #Caracas
 
 ## First comment
 
-Sources: Bloomberg Línea, Oct 2026 (Startup Venezuela Summit, organiser figures; air routes, 7 Oct 2026); Intelligent CIO, Aug 2026 (Cashea, company figures). Not investment advice.
-Photos: Andy Art and design, Juan Carlos Fernández Alemán (Pexels).
+Fuentes / Sources: Bloomberg Línea, oct. 2026 (Startup Venezuela Summit, cifras de los organizadores; rutas aéreas, 7 oct. 2026); Intelligent CIO, ago. 2026 (Cashea, cifras de la empresa). No es asesoría de inversión.
+Fotos: Andy Art and design, Joaquim Pacheco, Juan Carlos Fernández Alemán (Pexels).
