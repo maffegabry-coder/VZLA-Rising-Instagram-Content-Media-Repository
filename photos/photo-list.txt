@@ -19,3 +19,11 @@ pexels-32699745-margarita-lighthouse.jpg | https://images.pexels.com/photos/3269
 pexels-32699665-nueva-esparta-pelicans.jpg | https://images.pexels.com/photos/32699665/pexels-photo-32699665.jpeg?auto=compress&cs=tinysrgb&w=2000
 unsplash-LoBZJg-390E-merida-valley.jpg | https://images.unsplash.com/photo-1693348227481-2467938e5db7?w=2000&q=85&fm=jpg
 unsplash-19tQv51x4-A-llanos.jpg | https://images.unsplash.com/uploads/141362941583982a7e0fc/abcfbca1?w=2000&q=85&fm=jpg
+pexels-35434553-choroni.jpg | https://images.pexels.com/photos/35434553/pexels-photo-35434553.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-16654093-merida-bluesky.jpg | https://images.pexels.com/photos/16654093/pexels-photo-16654093.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-18122730-merida-flowers.jpg | https://images.pexels.com/photos/18122730/pexels-photo-18122730.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-1434406-falcon-beach.jpg | https://images.pexels.com/photos/1434406/pexels-photo-1434406.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-39879590-avila-golf.jpg | https://images.pexels.com/photos/39879590/pexels-photo-39879590.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-29154539-nueva-esparta-aerial.jpg | https://images.pexels.com/photos/29154539/pexels-photo-29154539.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-2570473-gran-roque-beach.jpg | https://images.pexels.com/photos/2570473/pexels-photo-2570473.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-16230240-gran-roque.jpg | https://images.pexels.com/photos/16230240/pexels-photo-16230240.jpeg?auto=compress&cs=tinysrgb&w=2000
