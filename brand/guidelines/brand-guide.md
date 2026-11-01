@@ -35,3 +35,12 @@ Pillars: Venezuela Uncovered (ivory/sand), Venezuela in Motion (ivory + espresso
 - English first, Spanish second. Hook in the first line, open question at the end, three hashtags, sources and photo credits in the first comment.
 - Never the long dash. Separate words with "-".
 - Distinguish confirmed facts, announcements and hypotheses. No investment promises.
+
+## v4 carousel style (Nov 2026, current)
+- Mostly full-bleed real photos, sunny only (blue sky, warm light), hospitality framing. Dark veil only on the lower half.
+- Headlines and big numbers: Cormorant Garamond, key word in gold italic (#E9C46A). Text and labels: Jost.
+- Top: white spaced text only (pillar left, slide number right) with a hairline. No pills or rounded bands.
+- Logo large, bottom right. Source and photo credit bottom left.
+- Slide text in English, short: one number, one line, one sentence. Captions English first, then a short "ES |" line in Spanish.
+- Photos are fetched by the GitHub Action in .github/workflows/fetch-photos.yml from photos/photo-list.txt.
+- Engine: templates/engine-v4.
