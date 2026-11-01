@@ -27,3 +27,28 @@ Ultimo controllo: 31/10/2026
 ## Esclusi
 - Nomina del nuovo ministro degli Esteri, Canada-UE, contenuti su figure politiche: nessun impatto economico o turistico diretto e verificabile.
 - Nocturneando 2026 sospeso a Chacao: notizia locale legata al sisma del 24 giugno. Da valutare solo come contesto per un pezzo sul turismo urbano.
+
+## Radar accounts (checked 01/11/2026)
+Use for ideas, topics and news only. Verify every fact on primary or independent sources and rewrite. Never reuse their photos, graphics or text without written permission (ask by DM, credit and tag, or propose a collab post).
+
+| Segment | Account | Followers |
+|---|---|---|
+| Business | @startupvenezuela_ | 22.9K |
+| Business | @somoscashea | 1.7M |
+| Business | @venezuelanchamber | 17.3K |
+| Business | @venamcham_oficial | 38.8K |
+| Business | @revistabv | 6.4K |
+| Business | @bancaynegocios | 147K |
+| Business | @ecoanalitica | 126K |
+| Business | @theguacamayave | 28.4K |
+| Travel | @guacamaya_travel | 52.5K |
+| Travel | @posadaacuarelalosroques | 16.5K |
+| Travel | @posadalasgarcia | 30.9K |
+| Travel | @hotelcasaviva.elyaque | 7.4K |
+| Travel | @tuvenezuelatours | 13.3K |
+| Travel | @ronsantateresa | 563K |
+| Architecture | @arquitecturavzl | 189K |
+| News | @ecosistemag, @sur_economics | 69K, 20K |
+
+## Photo permission DM (ES)
+Hola! Somos @vzla_rising, una revista digital sobre turismo, hospitality e inversión en Venezuela. Nos encantan sus fotos de [lugar]. ¿Nos permitirían usar 2-3 en un carrusel, con crédito y etiqueta a su cuenta? Si quieren, lo publicamos como colaboración. ¡Gracias!
