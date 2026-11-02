@@ -40,3 +40,7 @@ pexels-12306216-roques-islet.jpg | https://images.pexels.com/photos/12306216/pex
 pexels-10165537-roques-aerial2.jpg | https://images.pexels.com/photos/10165537/pexels-photo-10165537.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-31871910-caribbean-beach.jpg | https://images.pexels.com/photos/31871910/pexels-photo-31871910.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-2570495-gran-roque-walk.jpg | https://images.pexels.com/photos/2570495/pexels-photo-2570495.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-20733321-caracas-green.jpg | https://images.pexels.com/photos/20733321/pexels-photo-20733321.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-13831431-carabobo-coast.jpg | https://images.pexels.com/photos/13831431/pexels-photo-13831431.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-4118185-cumana-beach.jpg | https://images.pexels.com/photos/4118185/pexels-photo-4118185.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-40492546-caracas-sunset2.jpg | https://images.pexels.com/photos/40492546/pexels-photo-40492546.jpeg?auto=compress&cs=tinysrgb&w=2000
