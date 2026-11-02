@@ -57,3 +57,7 @@ Hola! Somos @vzla_rising, una revista digital sobre turismo, hospitality e inver
 - Topic: "Venezuela #1 for GDP growth in Latin America in 2027" - ranking seen on @dnewsok (17 Oct 2026), citing IMF: Venezuela 7.0%, Paraguay 4.0%, Argentina 3.5%, Peru 2.9%, Chile 2.6%, Ecuador 2.5%, Uruguay 2.4%, Colombia 2.3%, Brazil 1.9%, Bolivia -1.5%.
 - Use in one of the next posts (Venezuela in Motion or Investment Perspectives). Format idea: clean ranked bar chart drawn to scale, cream slide, plus photo slides.
 - MUST verify every value directly in the IMF World Economic Outlook (October 2026) database before publishing; do not copy the dnewsok figures. Make clear these are IMF projections, not results. Do not reuse dnewsok graphics.
+
+## IMF check (02/11/2026)
+- IMF WEO Oct 2026 Table A4: Venezuela 7.0% in 2027 is second in Latin America and the Caribbean after Guyana (16.8%). The @dnewsok ranking omits Guyana, Suriname and others. Published as P05 with the corrected claim.
+- Instagram profiles not opened on 02/11/2026 (no browser tools in the scheduled run); web sources used instead.
