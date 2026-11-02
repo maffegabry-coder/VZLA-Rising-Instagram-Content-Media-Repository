@@ -27,3 +27,16 @@ pexels-39879590-avila-golf.jpg | https://images.pexels.com/photos/39879590/pexel
 pexels-29154539-nueva-esparta-aerial.jpg | https://images.pexels.com/photos/29154539/pexels-photo-29154539.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-2570473-gran-roque-beach.jpg | https://images.pexels.com/photos/2570473/pexels-photo-2570473.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-16230240-gran-roque.jpg | https://images.pexels.com/photos/16230240/pexels-photo-16230240.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-14951613-merida-palms.jpg | https://images.pexels.com/photos/14951613/pexels-photo-14951613.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-16799369-merida-river.jpg | https://images.pexels.com/photos/16799369/pexels-photo-16799369.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-18122957-merida-panorama.jpg | https://images.pexels.com/photos/18122957/pexels-photo-18122957.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-18206815-merida-town.jpg | https://images.pexels.com/photos/18206815/pexels-photo-18206815.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-19199169-merida-valley2.jpg | https://images.pexels.com/photos/19199169/pexels-photo-19199169.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-14948085-sierra-lake.jpg | https://images.pexels.com/photos/14948085/pexels-photo-14948085.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-13398142-mucuruba-hotel.jpg | https://images.pexels.com/photos/13398142/pexels-photo-13398142.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-18558470-gran-roque-hut.jpg | https://images.pexels.com/photos/18558470/pexels-photo-18558470.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-2570472-gran-roque-palms.jpg | https://images.pexels.com/photos/2570472/pexels-photo-2570472.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-12306216-roques-islet.jpg | https://images.pexels.com/photos/12306216/pexels-photo-12306216.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-10165537-roques-aerial2.jpg | https://images.pexels.com/photos/10165537/pexels-photo-10165537.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-31871910-caribbean-beach.jpg | https://images.pexels.com/photos/31871910/pexels-photo-31871910.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-2570495-gran-roque-walk.jpg | https://images.pexels.com/photos/2570495/pexels-photo-2570495.jpeg?auto=compress&cs=tinysrgb&w=2000
