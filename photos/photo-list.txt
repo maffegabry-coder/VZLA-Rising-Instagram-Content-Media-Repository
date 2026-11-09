@@ -45,3 +45,4 @@ pexels-13831431-carabobo-coast.jpg | https://images.pexels.com/photos/13831431/p
 pexels-4118185-cumana-beach.jpg | https://images.pexels.com/photos/4118185/pexels-photo-4118185.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-40492546-caracas-sunset2.jpg | https://images.pexels.com/photos/40492546/pexels-photo-40492546.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-13448911-chichiriviche.jpg | https://images.pexels.com/photos/13448911/pexels-photo-13448911.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-13642997-montalban.jpg | https://images.pexels.com/photos/13642997/pexels-photo-13642997.jpeg?auto=compress&cs=tinysrgb&w=2000
