@@ -46,3 +46,12 @@ pexels-4118185-cumana-beach.jpg | https://images.pexels.com/photos/4118185/pexel
 pexels-40492546-caracas-sunset2.jpg | https://images.pexels.com/photos/40492546/pexels-photo-40492546.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-13448911-chichiriviche.jpg | https://images.pexels.com/photos/13448911/pexels-photo-13448911.jpeg?auto=compress&cs=tinysrgb&w=2000
 pexels-13642997-montalban.jpg | https://images.pexels.com/photos/13642997/pexels-photo-13642997.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-37610824-cuyagua-surfer.jpg | https://images.pexels.com/photos/37610824/pexels-photo-37610824.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-37628214-cuyagua-van.jpg | https://images.pexels.com/photos/37628214/pexels-photo-37628214.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-37610832-cuyagua-tent.jpg | https://images.pexels.com/photos/37610832/pexels-photo-37610832.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-6910961-cuyagua-waves.jpg | https://images.pexels.com/photos/6910961/pexels-photo-6910961.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-27442028-ocumare-cienaga.jpg | https://images.pexels.com/photos/27442028/pexels-photo-27442028.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-7360526-cuyagua-sunset.jpg | https://images.pexels.com/photos/7360526/pexels-photo-7360526.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-40226511-caracas-street.jpg | https://images.pexels.com/photos/40226511/pexels-photo-40226511.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-35434654-falcon-beach2.jpg | https://images.pexels.com/photos/35434654/pexels-photo-35434654.jpeg?auto=compress&cs=tinysrgb&w=2000
+pexels-40440586-coro-dunes.jpg | https://images.pexels.com/photos/40440586/pexels-photo-40440586.jpeg?auto=compress&cs=tinysrgb&w=2000
